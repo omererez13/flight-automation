@@ -13,8 +13,7 @@ Bu proje, Enuygun web sitesinde uçak bileti arama ve filtreleme işlemlerini ot
 
 1. **Depoyu Klonlayın:**
     ```sh
-    git clone <repository_url>
-    cd flight-automation
+    git clone https://github.com/omererez13/flight-automation.git
     ```
 
 2. **Gerekli Bağımlılıkları Yükleyin:**
